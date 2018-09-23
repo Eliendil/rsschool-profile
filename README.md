@@ -1,2 +1,2 @@
 Ilia Okunev
-https://www.codecademy.com/users/eliendil/achievements
+HTML CSS Basics: https://www.codecademy.com/users/eliendil/achievements
